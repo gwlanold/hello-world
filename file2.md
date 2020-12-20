@@ -5,5 +5,5 @@ that can facilitate this operation.
 
 # How to proceeds
 
-In order to deal with this problem, one needs to start removing all ideas can compromise
+In order to deal with this problem, one needs to start removing all ideas that can compromise
 the new project.
