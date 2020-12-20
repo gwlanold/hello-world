@@ -1,7 +1,7 @@
 # Introduction
 
 The main objective of this project is the development of an algorithm that
-allows queering ressources from Internet.
+allows quering ressources from Internet.
 
 The newt section will be devoted to the first principle of detailed management.
 All the progress will be listed here step by step.
